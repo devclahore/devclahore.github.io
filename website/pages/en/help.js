@@ -24,14 +24,14 @@ function Help(props) {
       content: `Learn more using the [documentation on this site.](${docUrl(
         'doc1.html',
       )})`,
-      title: 'Browse Docs',
+      title: 'Getting Started',
     },
     {
       content: 'Ask questions about the documentation and project',
       title: 'Join the community',
     },
     {
-      content: "Find out what's new with this project",
+      content: "Find out what's new with our community",
       title: 'Stay up to date',
     },
   ];
@@ -41,9 +41,9 @@ function Help(props) {
       <Container className="mainContainer documentContainer postContainer">
         <div className="post">
           <header className="postHeader">
-            <h1>Need help?</h1>
+            <h1>Need Guidance?</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
+          <p>This is a community driven project maintained by a dedicated group of people.</p>
           <GridBlock contents={supportLinks} layout="threeColumn" />
         </div>
       </Container>

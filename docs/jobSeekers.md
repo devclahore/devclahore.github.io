@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: jobSeekers
 title: Latin-ish
 sidebar_label: Example Page
 ---

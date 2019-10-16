@@ -11,11 +11,19 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: 'User1',
+    caption: 'Dummy Collaborator',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    image: 'https://pickaface.net/gallery/avatar/Skionz54fcbe1d2a057.png',
+    infoLink: 'https://www.github.com/Taimoormk',
+    pinned: true,
+  },
+  {
+    caption: 'Dummy Collaborator',
+    // You will need to prepend the image path with your baseUrl
+    // if it is not '/', like: '/test-site/img/image.jpg'.
+    image: 'https://pickaface.net/gallery/avatar/Skionz54fcbe1d2a057.png',
+    infoLink: 'https://www.github.com/Taimoormk',
     pinned: true,
   },
 ];

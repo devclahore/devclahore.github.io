@@ -31,7 +31,7 @@ const users = [
 const siteConfig = {
   title: 'Facebook Dev Circles: Lahore',
   tagline: 'Community Driven App',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
+  url: 'https://devclahore.github.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',

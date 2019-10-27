@@ -23,7 +23,7 @@ const users = [
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: 'https://pickaface.net/gallery/avatar/Skionz54fcbe1d2a057.png',
-    infoLink: 'https://www.github.com/Taimoormk',
+    infoLink: 'https://www.github.com/nabilashraf',
     pinned: true,
   },
 ];
@@ -36,10 +36,9 @@ const siteConfig = {
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
-
   // Used for publishing and more
-  projectName: 'facebook-dev-circle',
-  organizationName: 'facebook dev circle',
+  projectName: 'devclahore.github.io',
+  organizationName: 'devclahore',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -62,7 +61,7 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#43ac4d',
+    primaryColor: '#37b0cf',
     secondaryColor: '#2e7835',
   },
 

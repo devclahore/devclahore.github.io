@@ -4,11 +4,15 @@
     "start": "docusaurus-start",
     "build": "docusaurus-build",
     "publish-gh-pages": "docusaurus-publish",
+    "publish":"GIT_USER=Taimoormk USE_SSH=true npm run publish-gh-pages",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
     "rename-version": "docusaurus-rename-version"
   },
   "devDependencies": {
+    "@babel/helper-module-imports": "^7.0.0",
+    "babel-plugin-root-import": "^6.4.1",
     "docusaurus": "^1.13.0"
-  }
+  },
+  "dependencies": {}
 }
